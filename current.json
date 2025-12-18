@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Your Heat “Still Works” — But Won’t for Long",
-  "mistake": "Ignoring short-cycling heat because the house still feels warm.",
-  "escalation": "A $300–$500 adjustment quietly turns into a $5,000+ mid-winter repair as cold snaps settle in.",
-  "warning": "Early sign: heat turns on and off every few minutes or rooms won’t heat evenly.",
-  "insight": "This pattern shows up in Westchester homes every winter."
+  "type": "pros",
+  "headline": "Early winter heating calls are picking up before the coldest days hit",
+  "signals": [
+    "HVAC techs — short-cycling systems during early cold snaps",
+    "Waterproofers — basement moisture complaints tied to condensation, not leaks",
+    "Electricians — added space heaters stressing older circuits"
+  ],
+  "insight": "These are early-season patterns showing up across Westchester homes."
 }
