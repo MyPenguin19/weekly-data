@@ -1,0 +1,10 @@
+{
+  "type": "pros",
+  "headline": "Electrical load increases during cold weather workarounds",
+  "signals": [
+    "Electricians \u2014 overloaded circuits from heaters",
+    "HVAC techs \u2014 systems stressed by constant demand",
+    "Homeowners \u2014 tripped breakers during cold nights"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
+}

@@ -1,0 +1,10 @@
+{
+  "type": "pros",
+  "headline": "Emergency heating calls rise after sustained cold snaps",
+  "signals": [
+    "HVAC techs \u2014 ignition failures during overnight freezes",
+    "Plumbers \u2014 frozen pipe calls tied to heat outages",
+    "Homeowners \u2014 space heaters filling heating gaps"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
+}

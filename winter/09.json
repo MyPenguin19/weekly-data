@@ -1,0 +1,8 @@
+{
+  "type": "risk",
+  "headline": "When Backup Power Hasn\u2019t Been Tested",
+  "mistake": "Assuming generators will work when needed.",
+  "escalation": "A $300 service quietly turns into $5,000 in outage-related damage.",
+  "warning": "Early sign: generator fails to start during testing.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
+}
