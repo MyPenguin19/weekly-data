@@ -4,7 +4,7 @@
   "signals": [
     "HVAC techs — ignition failures during overnight freezes",
     "Plumbers — frozen pipe calls tied to heat outages",
-    "Homeowners — space heaters filling heating gaps"
+    "Electricians — surge in service calls from overloaded circuits after space heater use"
   ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "insight": "These patterns tend to appear across Westchester homes during prolonged winter cold snaps."
 }
