@@ -1,8 +1,8 @@
 {
   "type": "risk",
-  "headline": "When Pipes Freeze but Don’t Burst",
-  "mistake": "Assuming thawed pipes mean no damage occurred.",
-  "escalation": "A $200 repair quietly turns into $5,000 in water damage after refreezing.",
-  "warning": "Early sign: reduced water flow from faucets.",
+  "headline": "When Space Heaters Become Permanent",
+  "mistake": "Relying on portable heaters to compensate for weak heat.",
+  "escalation": "A $150 workaround quietly turns into $5,000 in electrical or fire damage.",
+  "warning": "Early sign: multiple heaters running daily.",
   "insight": "This pattern shows up in Westchester homes during {season}."
 }
