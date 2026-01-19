@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Drafts Appear Near Floors",
-  "mistake": "Ignoring cold air because the house is still livable.",
-  "escalation": "A $250 sealing issue quietly turns into $5,000 in frozen pipe or moisture damage.",
-  "warning": "Early sign: noticeable cold near baseboards.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Ice-related damage shows up before homeowners notice leaks",
+  "signals": [
+    "Roofers — ice dam damage discovered after thaws",
+    "Gutter pros — sagging sections under ice weight",
+    "Homeowners — ceiling stains after melt cycles"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
