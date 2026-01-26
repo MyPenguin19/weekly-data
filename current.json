@@ -1,10 +1,8 @@
 {
-  "type": "pros",
-  "headline": "Ice-related damage shows up before homeowners notice leaks",
-  "signals": [
-    "Roofers — ice dam damage discovered after thaws",
-    "Gutter pros — sagging sections under ice weight",
-    "Homeowners — ceiling stains after melt cycles"
-  ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "type": "risk",
+  "headline": "When Ice Builds Up Along Roof Edges",
+  "mistake": "Assuming ice is harmless once it forms.",
+  "escalation": "A $300 mitigation quietly turns into $5,000 in roof or interior damage.",
+  "warning": "Early sign: icicles forming along gutters.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
 }
