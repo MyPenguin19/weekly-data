@@ -1,8 +1,8 @@
 {
   "type": "risk",
-  "headline": "When Ice Builds Up Along Roof Edges",
-  "mistake": "Assuming ice is harmless once it forms.",
-  "escalation": "A $300 mitigation quietly turns into $5,000 in roof or interior damage.",
-  "warning": "Early sign: icicles forming along gutters.",
+  "headline": "When Oil Tanks Haven’t Been Checked in Years",
+  "mistake": "Assuming the tank is fine because heat still works.",
+  "escalation": "A $400 inspection quietly turns into $5,000 in leak cleanup.",
+  "warning": "Early sign: rust or odors near the tank.",
   "insight": "This pattern shows up in Westchester homes during {season}."
 }
