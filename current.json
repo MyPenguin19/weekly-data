@@ -1,10 +1,8 @@
 {
-  "type": "pros",
-  "headline": "Electrical load increases during cold weather workarounds",
-  "signals": [
-    "Electricians — overloaded circuits from heaters",
-    "HVAC techs — systems stressed by constant demand",
-    "Homeowners — tripped breakers during cold nights"
-  ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "type": "risk",
+  "headline": "When Backup Power Hasn’t Been Tested",
+  "mistake": "Assuming generators will work when needed.",
+  "escalation": "A $300 service quietly turns into $5,000 in outage-related damage.",
+  "warning": "Early sign: generator fails to start during testing.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
 }
