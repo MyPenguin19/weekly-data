@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Sump Pumps Start Cycling More Often",
-  "mistake": "Ignoring increased pump activity because there’s no flooding.",
-  "escalation": "A $300 pump issue quietly turns into $5,000 in water damage.",
-  "warning": "Early sign: sump pump running frequently after rain.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Moisture-related calls increase after repeated spring rain",
+  "signals": [
+    "Waterproofers — sump pumps cycling more frequently",
+    "Roofers — flashing issues revealed after storms",
+    "Homeowners — basement dampness without flooding"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
