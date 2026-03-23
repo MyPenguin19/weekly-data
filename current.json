@@ -1,10 +1,8 @@
 {
-  "type": "pros",
-  "headline": "Moisture-related calls increase after repeated spring rain",
-  "signals": [
-    "Waterproofers — sump pumps cycling more frequently",
-    "Roofers — flashing issues revealed after storms",
-    "Homeowners — basement dampness without flooding"
-  ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "type": "risk",
+  "headline": "When Gutters Can’t Keep Up With Spring Rain",
+  "mistake": "Assuming gutters cleared last fall are still functioning.",
+  "escalation": "A $200 cleaning quietly turns into $5,000 in siding or foundation damage.",
+  "warning": "Early sign: water spilling during moderate rain.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
 }
