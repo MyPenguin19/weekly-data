@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Roof Leaks Appear After Heavy Rain",
-  "mistake": "Assuming minor leaks will dry out on their own.",
-  "escalation": "A $400 repair quietly turns into $5,000 in interior damage.",
-  "warning": "Early sign: ceiling stains after storms.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Exterior damage becomes visible after winter wear",
+  "signals": [
+    "Siding pros — loose panels discovered during inspections",
+    "Masons — cracks widening from freeze-thaw cycles",
+    "Homeowners — peeling caulk and trim"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
