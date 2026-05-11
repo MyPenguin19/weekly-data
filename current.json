@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Outdoor Spigots Leak After First Use",
-  "mistake": "Ignoring small leaks because water pressure seems fine.",
-  "escalation": "A $200 repair quietly turns into $5,000 in hidden pipe damage.",
-  "warning": "Early sign: dripping from spigot connection.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Drainage complaints rise as ground thaws",
+  "signals": [
+    "Landscape contractors — pooling near foundations",
+    "Waterproofers — soil saturation causing seepage",
+    "Homeowners — standing water after rain"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
