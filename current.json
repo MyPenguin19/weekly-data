@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Your AC Runs All Day but the House Never Feels Cool",
-  "mistake": "Assuming longer run times are normal during hot weeks.",
-  "escalation": "A $250 service issue quietly turns into a $5,000 compressor failure during peak usage.",
-  "warning": "Early sign: AC runs constantly but rooms never reach the set temperature.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Cooling systems are being pushed earlier and harder than usual",
+  "signals": [
+    "HVAC techs — long run times without reaching set temperatures",
+    "Electricians — breaker trips tied to AC loads",
+    "Indoor air specialists — humidity complaints without leaks"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
