@@ -1,10 +1,8 @@
 {
-  "type": "pros",
-  "headline": "Cooling systems are being pushed earlier and harder than usual",
-  "signals": [
-    "HVAC techs — long run times without reaching set temperatures",
-    "Electricians — breaker trips tied to AC loads",
-    "Indoor air specialists — humidity complaints without leaks"
-  ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "type": "risk",
+  "headline": "When One Room Is Always Hotter Than the Rest",
+  "mistake": "Ignoring uneven cooling because other rooms feel comfortable.",
+  "escalation": "A minor airflow issue quietly turns into a $5,000 system strain during prolonged heat.",
+  "warning": "Early sign: upstairs rooms stay warm while lower levels cool normally.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
 }
