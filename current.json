@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Basement Air Feels Heavy but There’s No Water",
-  "mistake": "Ignoring humidity because there’s no visible leak.",
-  "escalation": "A $200 moisture fix quietly turns into $5,000 in mold remediation.",
-  "warning": "Early sign: musty smell without visible water.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Electrical strain increases during peak afternoon hours",
+  "signals": [
+    "Electricians — overloaded panels during heat waves",
+    "HVAC techs — systems shutting down under load",
+    "Homeowners — flickering lights during cooling cycles"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
