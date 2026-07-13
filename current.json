@@ -1,10 +1,8 @@
 {
-  "type": "pros",
-  "headline": "Electrical strain increases during peak afternoon hours",
-  "signals": [
-    "Electricians — overloaded panels during heat waves",
-    "HVAC techs — systems shutting down under load",
-    "Homeowners — flickering lights during cooling cycles"
-  ],
-  "insight": "These patterns tend to appear across Westchester homes during {season}."
+  "type": "risk",
+  "headline": "When Outdoor AC Units Sound Louder Than Usual",
+  "mistake": "Assuming extra noise is normal during hot days.",
+  "escalation": "A $400 repair quietly turns into a $5,000 system replacement.",
+  "warning": "Early sign: rattling or buzzing from the outdoor unit.",
+  "insight": "This pattern shows up in Westchester homes during {season}."
 }
