@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Heating Systems Haven’t Been Touched Since Last Winter",
-  "mistake": "Assuming heat will work fine when temperatures drop.",
-  "escalation": "A $250 tune-up quietly turns into a $5,000 mid-season failure.",
-  "warning": "Early sign: delayed startup or unusual smells when heat is first used.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Heating prep issues are surfacing before temperatures drop",
+  "signals": [
+    "HVAC techs — systems slow to start after summer downtime",
+    "Chimney pros — flue blockages discovered during inspections",
+    "Homeowners — uneven heat during first cool nights"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
