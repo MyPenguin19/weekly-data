@@ -1,8 +1,10 @@
 {
-  "type": "risk",
-  "headline": "When Chimneys Haven’t Been Used in Months",
-  "mistake": "Assuming fireplaces are ready after summer downtime.",
-  "escalation": "A $200 inspection quietly turns into $5,000 in fire or smoke damage.",
-  "warning": "Early sign: debris or odors when opening the damper.",
-  "insight": "This pattern shows up in Westchester homes during {season}."
+  "type": "pros",
+  "headline": "Water management problems show up after early fall storms",
+  "signals": [
+    "Roofers — flashing issues revealed by wind-driven rain",
+    "Waterproofers — basement dampness without flooding",
+    "Gutter pros — heavy debris buildup earlier than expected"
+  ],
+  "insight": "These patterns tend to appear across Westchester homes during {season}."
 }
